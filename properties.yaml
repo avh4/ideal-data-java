@@ -1,6 +1,6 @@
 ---
-package : com.example
-project : my-project
+package : net.avh4.ideal.data
+project : ideal-data-java
 description : ~
-project_url : ~
-github_user : ~
+project_url : http://github.com/avh4/ideal-data-java
+github_user : avh4
