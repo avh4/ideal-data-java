@@ -22,10 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="ideal-data-java" />
+        <module name="idealdatajava" />
         <module name="myproject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ideal-data-java" target="1.7" />
+      <module name="idealdatajava" target="1.7" />
       <module name="myproject" target="1.7" />
     </bytecodeTargetLevel>
   </component>
